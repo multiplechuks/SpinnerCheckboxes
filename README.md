@@ -1,5 +1,6 @@
 # SpinnerCheckboxes
 Dropdown spinner with checkboxes
+<br>
 How to Use
 add this to project dependency
         maven {
