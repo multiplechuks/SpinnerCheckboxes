@@ -1,10 +1,10 @@
 # SpinnerCheckboxes
 Dropdown spinner with checkboxes
 <br>
-How to Use
+<ul>How to Use</ul>
 add this to project dependency
-        maven {
+   <code>maven {
             url 'https://dl.bintray.com/boscoezekwe/Maven/'
-        }
+        }</code>
 and add this to app build.gradle file
         compile 'com.jbtechventures.spinnercheckboxes:spinnercheckboxes:+'
