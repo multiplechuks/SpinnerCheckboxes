@@ -7,4 +7,4 @@ add this to project dependency
             url 'https://dl.bintray.com/boscoezekwe/Maven/'
         }</code>
 and add this to app build.gradle file
-        compile 'com.jbtechventures.spinnercheckboxes:spinnercheckboxes:+'
+        <code>compile 'com.jbtechventures.spinnercheckboxes:spinnercheckboxes:+'</code>
